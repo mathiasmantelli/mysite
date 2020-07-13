@@ -1,0 +1,4 @@
+baseurl = "mathiasmantelli.com"
+languageCode = "en-us"
+title = "MATHIAS"
+theme = "hugo-coder"
