@@ -1,0 +1,3 @@
+1 - Go to mysite folder
+2 - After updating the files, run 'hugo'
+3 - Then run 'firebase deploy' to push the new files to Firebase
