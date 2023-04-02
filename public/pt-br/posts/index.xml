@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mathias Mantelli</title>
+    <link>http://www.example.com/pt-br/posts/</link>
+    <description>Recent content in Posts on Mathias Mantelli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/pt-br/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atualização do site</title>
+      <link>http://www.example.com/pt-br/posts/new-website/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/pt-br/posts/new-website/</guid>
+      <description>Depois de meses adiando isso, eu finalmente atualizei meu site pessoal Link para o cabeçalho A versão antiga do meu site tinha um design minimalista e limpo, o que é bem parecido com a sua versão atual. Na página inicial, ele mostrava todos os meus sites associados ao trabalho, juntamente com todas as minhas redes sociais. As páginas Sobre, Publicações, e Contato estavam todas concluídas, mas infelizmente elas estavam desatualizadas.</description>
+    </item>
+    
+  </channel>
+</rss>

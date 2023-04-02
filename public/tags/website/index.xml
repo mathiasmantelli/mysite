@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website on Mathias Mantelli</title>
+    <link>http://www.example.com/tags/website/</link>
+    <description>Recent content in website on Mathias Mantelli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website update</title>
+      <link>http://www.example.com/posts/new-website/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/new-website/</guid>
+      <description>After so many months postponing this, I&amp;rsquo;ve finally updated my personal website Link to heading The previous version of my website had a minimal and clean design, which is quite similar to its current version. On the homepage, it displayed all of my work-related websites along with my social media profiles. The About, Publications, and Contact pages were all filled out, but unfortunately, they were all outdated. I had always dreamed of having a Blog section, but unfortunately, it was just an empty page with a huge &amp;ldquo;TO DO&amp;rdquo;, a reminder to myself.</description>
+    </item>
+    
+  </channel>
+</rss>
