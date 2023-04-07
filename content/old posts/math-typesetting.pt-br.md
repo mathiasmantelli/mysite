@@ -1,5 +1,5 @@
 ---
-author: Mathias Mantelli
+author: Unknown
 title: Configuração de Equações Matemáticas
 date: 2019-03-08
 description: Um guia rápido sobre utilizar KaTeX

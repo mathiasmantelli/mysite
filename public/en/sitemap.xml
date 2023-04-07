@@ -231,6 +231,19 @@
     <loc>http://www.example.com/series/themes-guide/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://www.example.com/authors/unknown/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://www.example.com/pt-br/authors/unknown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/authors/unknown/"
+                />
+  </url><url>
     <loc>http://www.example.com/old-posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link

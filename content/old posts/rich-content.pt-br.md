@@ -1,5 +1,5 @@
 +++
-author = "Mathias Mantelli"
+author = "Unknown"
 title = "Conteúdo Rico"
 date = "2019-03-10"
 description = "Uma breve descrição sobre Shortcodes do Hugo"

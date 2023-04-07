@@ -1,5 +1,5 @@
 +++
-authors = ["Mathias Mantelli"]
+authors = ["Unknown"]
 title = "Suporte a Emojis"
 date = "2019-03-05"
 description = "Um guia de utilização de emojis com Hugo"

@@ -16,32 +16,5 @@
       <description>Depois de meses adiando isso, eu finalmente atualizei meu site pessoal Link para o cabeçalho A versão antiga do meu site tinha um design minimalista e limpo, o que é bem parecido com a sua versão atual. Na página inicial, ele mostrava todos os meus sites associados ao trabalho, juntamente com todas as minhas redes sociais. As páginas Sobre, Publicações, e Contato estavam todas concluídas, mas infelizmente elas estavam desatualizadas.</description>
     </item>
     
-    <item>
-      <title>Guia de Sintaxe Markdown</title>
-      <link>http://www.example.com/pt-br/old-posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/pt-br/old-posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Suporte a Emojis</title>
-      <link>http://www.example.com/pt-br/old-posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/pt-br/old-posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emojis podem ser ativados em um projeto Hugo de diversar formas.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Página Externa: Wiki Hugo Coder</title>
-      <link>http://www.example.com/pt-br/old-posts/hugo-coder-wiki/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/pt-br/old-posts/hugo-coder-wiki/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

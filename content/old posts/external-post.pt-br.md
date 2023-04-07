@@ -1,5 +1,5 @@
 +++
-authors = ["Mathias Mantelli"]
+authors = ["Unknown"]
 date = "2019-03-04"
 title = "Página Externa: Wiki Hugo Coder"
 slug = "hugo-coder-wiki"

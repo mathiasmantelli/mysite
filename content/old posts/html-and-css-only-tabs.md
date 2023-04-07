@@ -1,5 +1,5 @@
 +++
-authors = ["Mathias Mantelli"]
+authors = ["Unknown"]
 title = "HTML and CSS only tabs"
 date = "2022-05-15"
 description = "Sample article showcasing shortcodes for HTML/CSS only tabs"
