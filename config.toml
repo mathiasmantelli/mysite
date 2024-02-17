@@ -123,7 +123,7 @@ author = "authors"
 name = "CV"
 icon = "fa fa-2x fa-file-text-o"
 weight = 1
-url = "https://firebasestorage.googleapis.com/v0/b/mathiassite-987b8.appspot.com/o/CV_Mathias%20Fassini%20Mantelli.pdf?alt=media&token=0afd1495-11cb-475b-b993-825189a96eaa"
+url = "https://firebasestorage.googleapis.com/v0/b/mathiassite-987b8.appspot.com/o/CV_MathiasFassiniMantelli.pdf?alt=media&token=c0d53cbd-7b24-438a-8196-e8ca6379b1e9"
 
 [[params.social]]
 name = "Github"

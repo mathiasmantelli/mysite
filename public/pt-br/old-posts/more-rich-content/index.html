@@ -224,17 +224,16 @@
     </div>
 
     <footer class="footer">
-  <section class="container">
-    ©
-    2023
-     Mathias Mantelli 
-  </section>
-</footer>
-
-  </main>
-
+      <section class="container" id="copyright">
+        © <span id="currentYear"></span> Mathias Mantelli
+      </section>
+  </footer>
   
-
+    </main>
+  
+    <script>
+      document.getElementById("currentYear").innerHTML = new Date().getFullYear();
+  </script>  
   
   
   <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>

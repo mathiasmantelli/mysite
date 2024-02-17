@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unknown on Mathias Mantelli</title>
+    <link>http://www.example.com/pt-br/authors/unknown/</link>
+    <description>Recent content in Unknown on Mathias Mantelli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/pt-br/authors/unknown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guia de Sintaxe Markdown</title>
+      <link>http://www.example.com/pt-br/old-posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/pt-br/old-posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Suporte a Emojis</title>
+      <link>http://www.example.com/pt-br/old-posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/pt-br/old-posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emojis podem ser ativados em um projeto Hugo de diversar formas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Página Externa: Wiki Hugo Coder</title>
+      <link>http://www.example.com/pt-br/old-posts/hugo-coder-wiki/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/pt-br/old-posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
