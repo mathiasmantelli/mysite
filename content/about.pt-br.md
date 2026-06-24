@@ -1,15 +1,17 @@
 +++
-title = "Sobre"
-description = "Uma página onde eu falo sobre eu mesmo"
+title = "Sobre Mathias Mantelli"
+description = "Mathias Fassini Mantelli é um engenheiro de robótica brasileiro com doutorado, trabalhando na Sereact em Stuttgart, Alemanha, com foco em IA incorporada, Physical AI, robótica industrial, robôs humanoides e manipulação robótica."
 date = "2023-03-23"
-aliases = ["sobre-eu", "sobre-mathias", "contato"]
 author = "Mathias Mantelli"
+keywords = ["Mathias Mantelli", "IA incorporada", "Embodied AI", "Physical AI", "robótica industrial", "robôs humanoides", "manipulação robótica", "LLM robótica", "Sereact", "Stuttgart", "Alemanha", "robótica móvel", "SLAM", "ROS", "doutorado", "engenheiro de robótica"]
 +++
 
-Oi, eu sou o Mathias, um cientista da computação brasileiro apaixonado por robótica móvel. Enquanto fazia meu mestrado e doutorado, ganhei experiência em visão computacional e em diversos problemas da robótica, como mapeamento, localização, navegação, busca por objetos e exploração. Também desenvolvi habilidades em trabalho em equipe e comunicação, o que me permitiu trabalhar com tranquilidade com outros pesquisadores em busca de um objetivo comum.
+Oi, eu sou o Mathias, um cientista da computação brasileiro com doutorado em robótica móvel, atualmente morando em Stuttgart, na Alemanha. Trabalho na [Sereact](https://sereact.ai), onde faço parte da equipe que desenvolve e implementa sistemas robóticos baseados em IA para ambientes industriais — trabalhando com manipuladores, robôs humanoides e automação de armazéns em larga escala.
 
-Depois de tantos anos como membro do [Phi Robotics Research Lab](https://www.inf.ufrgs.br/phi-group/site/), decidi mudar para a indústria para me desafiar em um ambiente diferente e aplicar todo o conhecimento que acumulei ao longo dos anos. Atualmente, ajudo a [Instor](https://instor.com.br/en/) a projetar e construir diferentes tipos de robôs autônomos terrestres para muitos clientes.
+Minha formação é profundamente enraizada em robótica móvel. Durante meus anos no [Phi Robotics Research Lab](https://www.inf.ufrgs.br/phi-group/site/) da UFRGS, trabalhei com SLAM, navegação autônoma, busca por objetos e exploração robótica. Após concluir meu doutorado, migrei para a indústria — primeiro construindo robôs autônomos terrestres na [Instor](https://instor.com.br/en/) no Brasil, e depois fazendo a mudança para a Europa para trabalhar na interseção entre robótica e IA moderna.
 
-Embora não seja mais membro do Phi Lab, onde costumava estudar por horas seguidas, minha paixão por adquirir novos conhecimentos continua a mesma. Os tópicos relacionados ao campo da percepção na robótica estão se tornando cada vez mais importantes, principalmente devido às tarefas de alto nível que os robôs móveis estão desempenhando atualmente. Por isso, os tópicos de meu interesse atualmente para expandir e dominar são fusão de sensores, detecção e rastreamento de objetos, segmentação de imagens e nuvens de pontos, e machine learning aplicado a problemas de percepção no campo da robótica.
+Hoje em dia, meu foco se voltou para o que considero a próxima grande fronteira: IA incorporada (Embodied AI) e Physical AI. Trabalho diariamente com os desafios de fazer modelos de linguagem e modelos de fundação funcionarem em robôs reais — desde o deploy e integração de sistemas até a criação de soluções de IA que entendem e agem no mundo físico. Robótica industrial, manipulação robótica e robôs humanoides são os domínios onde passo a maior parte do meu tempo.
+
+Minha paixão por aprender não diminuiu desde os tempos de doutorado. O campo da robótica está evoluindo mais rápido do que nunca, e não há nada mais empolgante do que estar bem no meio disso tudo.
 
 Como o mundo não se resume apenas à robótica, ~~infelizmente,~~ também gosto de passar meu tempo ouvindo podcasts, conversando com amigos e assistindo vídeos no YouTube.

@@ -1,9 +1,10 @@
 +++
-title = "Contact"
+title = "Contact Mathias Mantelli"
+description = "Get in touch with Mathias Fassini Mantelli — connect via LinkedIn, GitHub, Twitter, Instagram, or email."
 slug = "contact"
 +++
 
-You can reach me on any social media listed on my [home](mathiasmantelli.com) page. 
+You can reach me on any social media listed on my [home](/) page. 
 
 <!-- But if you prefer to email me, please use:\
 :email:*mathiasfassini*AT*gmail*DOT*com*:email:\
