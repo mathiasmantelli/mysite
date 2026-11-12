@@ -1,6 +1,6 @@
 +++
 title = "Contato - Mathias Mantelli"
-description = "Entre em contato com Mathias Fassini Mantelli — conecte-se pelo LinkedIn, GitHub, Twitter, Instagram ou e-mail."
+description = "Entre em contato com Mathias Fassini Mantelli — conecte-se pelo LinkedIn, GitHub, Google Scholar, X ou e-mail."
 slug = "contact"
 +++
 

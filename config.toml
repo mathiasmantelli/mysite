@@ -131,30 +131,28 @@ weight = 2
 url = "https://github.com/mathiasmantelli"
 
 [[params.social]]
-name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
+name = "Google Scholar"
+svg = "google-scholar"
 weight = 3
-url = "https://gitlab.com/mathiasmantelli"
+url = "https://scholar.google.com/citations?user=Km3m7ggAAAAJ&hl=en"
 
 [[params.social]]
-name = "Twitter"
-icon = "fa fa-2x fa-twitter"
-weight = 5
-url = "https://twitter.com/mathiasmantelli"
+name = "Medium"
+icon = "fa fa-2x fa-medium"
+weight = 4
+url = "https://medium.com/@mathiasmantelli"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
-weight = 4
+weight = 5
 url = "https://www.linkedin.com/in/mathiasmantelli"
 
 [[params.social]]
-name = "Instagram"
-icon = "fa fa-2x fa-instagram"
+name = "X"
+svg = "x"
 weight = 6
-url = "https://www.instagram.com/mathiasmantelli"
-#rel = "alternate"
-#type = "application/rss+xml"
+url = "https://x.com/mathiasmantelli"
 
 [languages.en]
 languageName = ":uk:"
